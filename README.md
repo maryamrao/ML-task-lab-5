@@ -87,3 +87,15 @@ The programs automatically create PNG decision-tree visualizations in `outputs/`
 - [ ] Titanic accuracy, confusion matrix/classification report and tree
 - [ ] Car accuracy, confusion matrix/classification report and tree
 - [ ] README and project structure
+
+## Screenshots
+<img width="1127" height="671" alt="image" src="https://github.com/user-attachments/assets/d9cbc71b-d428-48cb-8e3c-5dd1a82d73d0" />
+<img width="1224" height="743" alt="image" src="https://github.com/user-attachments/assets/ab970128-99cf-4f15-bff5-5950d11e3c5f" />
+<img width="1124" height="729" alt="image" src="https://github.com/user-attachments/assets/182d0400-0e1f-4dfd-a016-b28634103cac" />
+<img width="1247" height="668" alt="image" src="https://github.com/user-attachments/assets/5b3d4bf4-d073-47d0-abdb-43c8f970245c" />
+<img width="1242" height="617" alt="image" src="https://github.com/user-attachments/assets/a6faa20d-293a-4b44-a5dc-94950564af45" />
+<img width="1158" height="753" alt="image" src="https://github.com/user-attachments/assets/37657a26-9813-4530-942f-fe1043b2264a" />
+<img width="1107" height="712" alt="image" src="https://github.com/user-attachments/assets/8613cc0f-03df-42d6-aa26-5643715b10e3" />
+<img width="1218" height="659" alt="image" src="https://github.com/user-attachments/assets/00041b09-378b-48da-9f5d-ccf450a415b3" />
+<img width="1260" height="708" alt="image" src="https://github.com/user-attachments/assets/ecc5c3e5-fdb3-42cf-b0ab-285db0367735" />
+
